@@ -8,4 +8,9 @@ class Solution:
         for i in range(len(sorted_freq)):
             res+=sorted_freq[i][0]*sorted_freq[i][1]
         return res
+
+        """
+        for ch,count in sorted_freq:
+            res+=ch*count
+        """
         
