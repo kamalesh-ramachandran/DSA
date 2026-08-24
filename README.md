@@ -31,12 +31,14 @@ Leetcode Solved Problems
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kamalesh-ramachandran/DSA/tree/master/0125-valid-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/kamalesh-ramachandran/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kamalesh-ramachandran/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kamalesh-ramachandran/DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/kamalesh-ramachandran/DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
