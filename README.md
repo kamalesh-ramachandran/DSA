@@ -108,3 +108,23 @@ Leetcode Solved Problems
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kamalesh-ramachandran/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
+
+<!-- COMMITDSA_START -->
+# DSA Portfolio
+
+Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
+
+## Statistics
+
+| Platform | Total Solved | Easy | Medium | Hard |
+| --- | --- | --- | --- | --- |
+| LeetCode | 0 | 0 | 0 | 0 |
+| GeeksforGeeks | 1 | 0 | 1 | 0 |
+| **Total** | **1** | **0** | **1** | **0** |
+
+## Solved Problems
+
+| # | Problem | Platform | Difficulty | Language | Code |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [Count Occurrences in Sorted](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_CountOccurrencesInSorted.py) |
+<!-- COMMITDSA_END -->
