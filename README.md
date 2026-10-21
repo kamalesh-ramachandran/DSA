@@ -13,6 +13,7 @@ Leetcode Solved Problems
 | [0128-longest-consecutive-sequence](https://github.com/kamalesh-ramachandran/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalesh-ramachandran/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kamalesh-ramachandran/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kamalesh-ramachandran/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kamalesh-ramachandran/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +44,7 @@ Leetcode Solved Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kamalesh-ramachandran/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalesh-ramachandran/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kamalesh-ramachandran/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kamalesh-ramachandran/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -65,6 +67,7 @@ Leetcode Solved Problems
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kamalesh-ramachandran/DSA/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
