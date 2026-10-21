@@ -55,6 +55,7 @@ Leetcode Solved Problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/kamalesh-ramachandran/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalesh-ramachandran/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -69,6 +70,7 @@ Leetcode Solved Problems
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kamalesh-ramachandran/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kamalesh-ramachandran/DSA/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -112,6 +114,10 @@ Leetcode Solved Problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kamalesh-ramachandran/DSA/tree/master/0347-top-k-frequent-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kamalesh-ramachandran/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
 
 <!-- COMMITDSA_START -->
