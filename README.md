@@ -19,6 +19,7 @@ Leetcode Solved Problems
 | [0347-top-k-frequent-elements](https://github.com/kamalesh-ramachandran/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/kamalesh-ramachandran/DSA/tree/master/0410-split-array-largest-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kamalesh-ramachandran/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0875-koko-eating-bananas](https://github.com/kamalesh-ramachandran/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamalesh-ramachandran/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -61,6 +62,7 @@ Leetcode Solved Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalesh-ramachandran/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/kamalesh-ramachandran/DSA/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/kamalesh-ramachandran/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamalesh-ramachandran/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
@@ -122,6 +124,18 @@ Leetcode Solved Problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kamalesh-ramachandran/DSA/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/kamalesh-ramachandran/DSA/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/kamalesh-ramachandran/DSA/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/kamalesh-ramachandran/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
 
 <!-- COMMITDSA_START -->
