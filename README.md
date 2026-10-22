@@ -21,6 +21,7 @@ Leetcode Solved Problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kamalesh-ramachandran/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0875-koko-eating-bananas](https://github.com/kamalesh-ramachandran/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamalesh-ramachandran/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Leetcode Solved Problems
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/kamalesh-ramachandran/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamalesh-ramachandran/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
