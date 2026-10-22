@@ -63,6 +63,7 @@ Leetcode Solved Problems
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/kamalesh-ramachandran/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/kamalesh-ramachandran/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/kamalesh-ramachandran/DSA/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/kamalesh-ramachandran/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamalesh-ramachandran/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -138,6 +139,10 @@ Leetcode Solved Problems
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kamalesh-ramachandran/DSA/tree/master/0410-split-array-largest-sum) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/kamalesh-ramachandran/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
 
 <!-- COMMITDSA_START -->
