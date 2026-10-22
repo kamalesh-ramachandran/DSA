@@ -62,6 +62,7 @@ Leetcode Solved Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalesh-ramachandran/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/kamalesh-ramachandran/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/kamalesh-ramachandran/DSA/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/kamalesh-ramachandran/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamalesh-ramachandran/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -79,6 +80,7 @@ Leetcode Solved Problems
 | [0069-sqrtx](https://github.com/kamalesh-ramachandran/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kamalesh-ramachandran/DSA/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/kamalesh-ramachandran/DSA/tree/master/0367-valid-perfect-square) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
