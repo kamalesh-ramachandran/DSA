@@ -20,6 +20,7 @@ Leetcode Solved Problems
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kamalesh-ramachandran/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0875-koko-eating-bananas](https://github.com/kamalesh-ramachandran/DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Leetcode Solved Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalesh-ramachandran/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamalesh-ramachandran/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0875-koko-eating-bananas](https://github.com/kamalesh-ramachandran/DSA/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
