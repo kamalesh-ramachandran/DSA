@@ -11,6 +11,7 @@ Leetcode Solved Problems
 | [0033-search-in-rotated-sorted-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kamalesh-ramachandran/DSA/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/kamalesh-ramachandran/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/kamalesh-ramachandran/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalesh-ramachandran/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,6 +48,7 @@ Leetcode Solved Problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/kamalesh-ramachandran/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kamalesh-ramachandran/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalesh-ramachandran/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kamalesh-ramachandran/DSA/tree/master/0189-rotate-array) |
@@ -72,6 +74,7 @@ Leetcode Solved Problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kamalesh-ramachandran/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kamalesh-ramachandran/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kamalesh-ramachandran/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kamalesh-ramachandran/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -145,6 +148,14 @@ Leetcode Solved Problems
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kamalesh-ramachandran/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kamalesh-ramachandran/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kamalesh-ramachandran/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
 
 <!-- COMMITDSA_START -->
