@@ -168,13 +168,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 |
-| GeeksforGeeks | 2 | 1 | 1 | 0 |
-| **Total** | **2** | **1** | **1** | **0** |
+| GeeksforGeeks | 3 | 2 | 1 | 0 |
+| **Total** | **3** | **2** | **1** | **0** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_BubbleSort.py) |
-| 2 | [Count Occurrences in Sorted](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_CountOccurrencesInSorted.py) |
+| 2 | [Sort in Descending](https://practice.geeksforgeeks.org/problems/sort-in-descending--141631/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_SortInDescending.py) |
+| 3 | [Count Occurrences in Sorted](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_CountOccurrencesInSorted.py) |
 <!-- COMMITDSA_END -->
